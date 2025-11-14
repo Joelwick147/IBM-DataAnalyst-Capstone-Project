@@ -36,3 +36,4 @@ The results of the analysis, including visualizations and summary statistics, ar
 
 - Email: muwanguzikevo@gmail.com
 - LinkedIn: [Miiro Felix](https://www.linkedin.com/in/mjoel-felix/)
+- - Certificate: [IBM Certificate](https://www.coursera.org/account/accomplishments/specialization/KKT6VB5AVQMB?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n)
